@@ -1,0 +1,6 @@
+{
+  "name": "Quản Trị Học Tập Ngữ Văn – Nguyễn Quang Kiên",
+  "description": "Hệ thống quản trị học tập môn Ngữ văn dành cho giáo viên Nguyễn Quang Kiên – Trường THCS Thái Phiên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
